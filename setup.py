@@ -25,12 +25,9 @@ setup(
         'pywavefront',
         'trimesh',
         'scikit-image',
-        'autolab_core',
-        'autolab-perception',
         'cvxopt',
         'dill',
         'h5py',
-        'sklearn',
-        'grasp_nms'
+        'scikit-learn',
     ]
 )
